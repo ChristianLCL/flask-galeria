@@ -74,4 +74,4 @@ jobs:
     - name: curl
       uses: wei/curl@master
       with:
-        args: http://${{ secrets.HOSTNAME }}
+        args: http://${{ secrets.AWS_HOSTNAME }}
