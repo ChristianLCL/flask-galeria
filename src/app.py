@@ -1,6 +1,5 @@
 
 # From https://github.com/datademofun/heroku-basic-flask
-# algo para modificar el repositorio
 # Nota: en ese tutorial se ve como hacerlo
 #  - con Heroku CLI
 #  - sin usar GitHub
